@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(219, 230, 239);
+    color: black;
+    padding: 10%;
+}
+#stopwatch {
+    text-align: center;
+    margin: 50px auto;
+}
+#timer {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 2rem;
+    border-radius: 12px;
+    background-color: rgb(33, 122, 238);
+    
+}
+#start {
+    text-align: center;
+}
